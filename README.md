@@ -5,9 +5,9 @@
 + 2
 + 3
 
-1. Un
-2. Deux
 
+2. Deux
+3. Trois
 Formation **GIT**
 
 Formation *GIT*
